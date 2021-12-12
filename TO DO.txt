@@ -1,0 +1,20 @@
+
+
+DONE-create trees in the over view main
+so the char goes behind them
+multiple trees
+
+hitting walls
+
+hitting cactus take damage
+
+DONE-add health to hero
+
+DONE-score?
+
+
+add a key for interaction with objects on the screen
+-picking up objects storing in list? 
+-saves?
+
+
